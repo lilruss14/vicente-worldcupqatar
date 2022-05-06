@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "fileId": "1fuj_qaRKFQkRSzYxLSF1Ep1WYsDhfG8wKhhfKGflM4E",
+      "type": "sheet",
+      "name": "groups"
+    },
+    {
+      "fileId": "1zKY0AzoUbsH011mE94-5HRdPcxQRaX83GaXBFxzID1I",
+      "type": "sheet",
+      "name": "teams"
+    }
+  ],
+  "to_bake": [
+    {
+      "template": "bake-teams",
+      "data": "teams",
+      "array": "teams",
+      "slug": "slug",
+      "path": "teams"
+    }
+  ]
+}

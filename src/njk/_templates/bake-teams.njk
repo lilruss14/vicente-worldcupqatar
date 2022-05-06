@@ -1,0 +1,27 @@
+{% extends '_templates/base.njk' %}
+
+{% set relative_path = "../" %}
+
+{% block page_title %}{{ title }}{% endblock %}
+
+{% block page_description %}{{ title }} by {{ author }}{% endblock %}
+
+{% block content %}
+  <article class="container">
+    <div class="row">
+      <div class="col-sm-4">
+      </div>
+      <div class="col-sm-8">
+          <h1>{{ slug }}</h1>
+          <p>Position: {{ group }}</p>
+          <p>Manager: {{ manager }}</p>
+          <p>Qualifying Record: {{ qualifying }}</p>
+          <p>Region: {{ region }}</p>
+          <p>Best Finish: {{ finish }}</p>
+          <p>Past Titles: {{ titles }}</p>
+          <p>Apperances: {{ apperance }}</p>
+          <p>Nickname: {{ nickname }}</p>
+      </div>
+    </div>
+  </article>
+{% endblock %}

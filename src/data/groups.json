@@ -1,0 +1,108 @@
+{
+  "groups": [
+    {
+      "group_name": "Group A",
+      "slug": "The schedule for matches in Group A",
+      "date_1": "Monday, November 21, 2022",
+      "match_1_1": "Qatar v Ecuador",
+      "match_1_2": "Senegal v Netherlands",
+      "date_2": "Friday, November 25, 2022",
+      "match_2_1": "Netherlands v Ecuador",
+      "match_2_2": "Qatar v Senegal",
+      "date_3": "Tuesday, November 29, 2022",
+      "match_3_1": "Netherlands v Qatar",
+      "match_3_2": "Ecuador v Senegal"
+    },
+    {
+      "group_name": "Group B",
+      "slug": "The schedule for matches in Group B",
+      "date_1": "Monday, November 21, 2022",
+      "match_1_1": "England v Iran",
+      "match_1_2": "United States v Euro Play-off",
+      "date_2": "Friday, November 25, 2022",
+      "match_2_1": "England v USA",
+      "match_2_2": "Euro Play-off v Iran",
+      "date_3": "Tuesday, November 29, 2022",
+      "match_3_1": "Iran v USA",
+      "match_3_2": "Euro Play-off v England"
+    },
+    {
+      "group_name": "Group C",
+      "slug": "The schedule for matches in Group C",
+      "date_1": "Tuesday, November 22, 2022",
+      "match_1_1": "Argentina v Saudi Arabia",
+      "match_1_2": "Mexico v Poland",
+      "date_2": "Saturday, November 26, 2022",
+      "match_2_1": "Argentina v Mexico",
+      "match_2_2": "Poland v Saudi Arabia",
+      "date_3": "Wednesday, November 30, 2022",
+      "match_3_1": "Saudi Arabia v Mexico",
+      "match_3_2": "Poland v Argentina"
+    },
+    {
+      "group_name": "Group D",
+      "slug": "The schedule for matches in Group D",
+      "date_1": "Tuesday, November 22, 2022",
+      "match_1_1": "Denmark v Tunisia",
+      "match_1_2": "France v IC Play-off 1",
+      "date_2": "Saturday, November 26, 2022",
+      "match_2_1": "France v Denmark",
+      "match_2_2": "Tunisia v IC Play-off 1",
+      "date_3": "Wednesday, November 30, 2022",
+      "match_3_1": "Tunisia v France",
+      "match_3_2": "IC Play-off 1 v Denmark"
+    },
+    {
+      "group_name": "Group E",
+      "slug": "The schedule for matches in Group E",
+      "date_1": "Wednesday, November 23, 2022",
+      "match_1_1": "Germany v Japan",
+      "match_1_2": "Spain v IC Play-off 2",
+      "date_2": "Sunday, November 27, 2022",
+      "match_2_1": "Spain v Germany",
+      "match_2_2": "Japan v IC Play-off 2",
+      "date_3": "Thursday, December 1, 2022",
+      "match_3_1": "IC Play-off 2 v Germany",
+      "match_3_2": "Japan v Spain"
+    },
+    {
+      "group_name": "Group F",
+      "slug": "The schedule for matches in Group F",
+      "date_1": "Wednesday, November 23, 2022",
+      "match_1_1": "Morocco v Croatia",
+      "match_1_2": "Belgium v Canada",
+      "date_2": "Sunday, November 27, 2022",
+      "match_2_1": "Croatia v Canada",
+      "match_2_2": "Belgium v Morocco",
+      "date_3": "Thursday, December 1, 2022",
+      "match_3_1": "Canada v Morocco",
+      "match_3_2": "Croatia v Belgium"
+    },
+    {
+      "group_name": "Group G",
+      "slug": "The schedule for matches in Group G",
+      "date_1": "Thursday, November 24, 2022",
+      "match_1_1": "Brazil v Serbia",
+      "match_1_2": "Switzerland v Cameroon",
+      "date_2": "Monday, November 28, 2022",
+      "match_2_1": "Brazil v Switzerland",
+      "match_2_2": "Cameroon v Serbia",
+      "date_3": "Friday, December 2, 2022",
+      "match_3_1": "Serbia v Switzerland",
+      "match_3_2": "Cameroon v Brazil"
+    },
+    {
+      "group_name": "Group H",
+      "slug": "The schedule for matches in Group H",
+      "date_1": "Thursday, November 24, 2022",
+      "match_1_1": "Portugal v Ghana",
+      "match_1_2": "Uruguay v Korea Republic",
+      "date_2": "Monday, November 28, 2022",
+      "match_2_1": "Portugal v Uruguay",
+      "match_2_2": "Korea Republic v Ghana",
+      "date_3": "Friday, December 2, 2022",
+      "match_3_1": "Korea Republic v Portugal",
+      "match_3_2": "Ghana v Uruguay"
+    }
+  ]
+}
