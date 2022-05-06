@@ -2,7 +2,8 @@
   "teams": [
     {
       "group": "A,1",
-      "slug": "Qatar",
+      "slug": "qatar",
+      "title": "Qatar",
       "manager": "Félix Sánchez",
       "qualifying": "Automatic",
       "region": "Host Nation",
@@ -13,7 +14,8 @@
     },
     {
       "group": "A,2",
-      "slug": "Ecuador",
+      "slug": "ecuador",
+      "title": "Ecuador",
       "manager": "Gustavo Alfaro",
       "qualifying": "7-5-6",
       "region": "CONEMBOL",
@@ -24,7 +26,8 @@
     },
     {
       "group": "A,3",
-      "slug": "Senegal",
+      "slug": "senegal",
+      "title": "Senegal",
       "manager": "Aliou Cissé",
       "qualifying": "5-1-0",
       "region": "CAF",
@@ -35,7 +38,8 @@
     },
     {
       "group": "A,4",
-      "slug": "Netherlands",
+      "slug": "netherlands",
+      "title": "Netherlands",
       "manager": "Louis Van Gaal",
       "qualifying": "7-2-1",
       "region": "UEFA",
@@ -46,7 +50,8 @@
     },
     {
       "group": "B,1",
-      "slug": "England",
+      "slug": "england",
+      "title": "England",
       "manager": "Gareth Southgate",
       "qualifying": "8-2-0",
       "region": "UEFA",
@@ -57,7 +62,8 @@
     },
     {
       "group": "B,2",
-      "slug": "Iran",
+      "slug": "iran",
+      "title": "Iran",
       "manager": "Dragon Skočić",
       "qualifying": "8-1-1",
       "region": "AFC",
@@ -68,7 +74,8 @@
     },
     {
       "group": "B,3",
-      "slug": "United States",
+      "slug": "united-states",
+      "title": "United States",
       "manager": "Gregg Berhalter",
       "qualifying": "7-4-3",
       "region": "CONCACAF",
@@ -79,7 +86,8 @@
     },
     {
       "group": "B,4",
-      "slug": "Euro Play-off",
+      "slug": "euro-play-off",
+      "title": "Euro Play-off",
       "manager": "",
       "qualifying": "",
       "region": "UEFA",
@@ -90,7 +98,8 @@
     },
     {
       "group": "C,1",
-      "slug": "Argentina",
+      "slug": "argentina",
+      "title": "Argentina",
       "manager": "Lionel Scaloni",
       "qualifying": "11-6-0",
       "region": "CONEMBOL",
@@ -101,7 +110,8 @@
     },
     {
       "group": "C,2",
-      "slug": "Saudi Arabia",
+      "slug": "saudi-arabie",
+      "title": "Saudi Arabia",
       "manager": "Hervé Renard",
       "qualifying": "7-2-1",
       "region": "AFC",
@@ -112,7 +122,8 @@
     },
     {
       "group": "C,3",
-      "slug": "Mexico ",
+      "slug": "mexico",
+      "title": "Mexico",
       "manager": "Gerado Martino",
       "qualifying": "8-4-2",
       "region": "CONCACAF",
@@ -123,7 +134,8 @@
     },
     {
       "group": "C,4",
-      "slug": "Poland",
+      "slug": "poland",
+      "title": "Poland",
       "manager": "Czesław Michniewicz",
       "qualifying": "6-2-2",
       "region": "UEFA",
@@ -134,7 +146,8 @@
     },
     {
       "group": "D,1",
-      "slug": "France",
+      "slug": "france",
+      "title": "France",
       "manager": "Didier Deschamps",
       "qualifying": "5-3-0",
       "region": "UEFA",
@@ -145,7 +158,8 @@
     },
     {
       "group": "D,2",
-      "slug": "IC Play-off 1",
+      "slug": "ic-play-off-1",
+      "title": "IC Play-off 1",
       "manager": "",
       "qualifying": "",
       "region": "",
@@ -156,7 +170,8 @@
     },
     {
       "group": "D,3",
-      "slug": "Denmark",
+      "slug": "denmark",
+      "title": "Denmark",
       "manager": "Kasper Hjulmand",
       "record in qualifying": "9-0-1",
       "region": "UEFA",
@@ -167,7 +182,8 @@
     },
     {
       "group": "D,4",
-      "slug": "Tunisia",
+      "slug": "tunisia",
+      "title": "Tunisia",
       "manager": "Jalel Kadri",
       "qualifying": "4-1-1",
       "region": "CAF",
@@ -178,7 +194,8 @@
     },
     {
       "group": "E,1",
-      "slug": "Spain",
+      "slug": "spain",
+      "title": "Spain",
       "manager": "Luis Enrique",
       "qualifying": "6-1-1",
       "region": "UEFA",
@@ -189,7 +206,8 @@
     },
     {
       "group": "E,2",
-      "slug": "IC Play-off 2",
+      "slug": "ic-play-off-2",
+      "title": "IC Play-off 2",
       "manager": "",
       "qualifying": "",
       "region": "",
@@ -200,7 +218,8 @@
     },
     {
       "group": "E,3",
-      "slug": "Germany",
+      "slug": "germany",
+      "title": "Germany",
       "manager": "Hansi Flick",
       "qualifying": "9-0-1",
       "region": "UEFA",
@@ -211,7 +230,8 @@
     },
     {
       "group": "E,4",
-      "slug": "Japan",
+      "slug": "japan",
+      "title": "Japan",
       "manager": "Hajime Moriyasu",
       "qualifying": "7-1-2",
       "region": "AFC",
@@ -222,7 +242,8 @@
     },
     {
       "group": "F,1",
-      "slug": "Belgium",
+      "slug": "belgium",
+      "title": "Belgium",
       "manager": "Roberto Martínez",
       "qualifying": "6-2-0",
       "region": "UEFA",
@@ -233,7 +254,8 @@
     },
     {
       "group": "F,2",
-      "slug": "Canada",
+      "slug": "canada",
+      "title": "Canada",
       "manager": "John Herdman",
       "qualifying": "8-4-2",
       "region": "CONCACAF",
@@ -244,7 +266,8 @@
     },
     {
       "group": "F,3",
-      "slug": "Morocco",
+      "slug": "morocco",
+      "title": "Morocco",
       "manager": "Vahid Halilhodžić",
       "qualifying": "6-0-0",
       "region": "CAF",
@@ -255,7 +278,8 @@
     },
     {
       "group": "F,4",
-      "slug": "Croatia",
+      "slug": "croatia",
+      "title": "Croatia",
       "manager": "Zlatko Dalić",
       "qualifying": "7-2-1",
       "region": "UEFA",
@@ -266,7 +290,8 @@
     },
     {
       "group": "G,1",
-      "slug": "Brazil",
+      "slug": "brazil",
+      "title": "Brazil",
       "manager": "Tite",
       "qualifying": "14-3-0",
       "region": "CONEMBOL",
@@ -277,7 +302,8 @@
     },
     {
       "group": "G,2",
-      "slug": "Serbia",
+      "slug": "serbia",
+      "title": "Serbia",
       "manager": "Dragon Stojković",
       "qualifying": "6-2-0",
       "region": "UEFA",
@@ -288,7 +314,8 @@
     },
     {
       "group": "G,3",
-      "slug": "Switzerland",
+      "slug": "switzerland",
+      "title": "Switzerland",
       "manager": "Murat Yakin",
       "qualifying": "5-3-0",
       "region": "UEFA",
@@ -299,7 +326,8 @@
     },
     {
       "group": "G,4",
-      "slug": "Cameroon",
+      "slug": "cameroon",
+      "title": "Cameroon",
       "manager": "Rigobert Song",
       "qualifying": "5-0-1",
       "region": "CAF",
@@ -310,7 +338,8 @@
     },
     {
       "group": "H,1",
-      "slug": "Portugal",
+      "slug": "portugal",
+      "title": "Portugal",
       "manager": "Fernando Santos",
       "qualifying": "5-2-1",
       "region": "UEFA",
@@ -321,7 +350,8 @@
     },
     {
       "group": "H,2",
-      "slug": "Ghana",
+      "slug": "ghana",
+      "title": "Ghana",
       "manager": "Otto Addo",
       "qualifying": "4-1-1",
       "region": "CAF",
@@ -332,7 +362,8 @@
     },
     {
       "group": "H,3",
-      "slug": "Uruguay",
+      "slug": "uruguay",
+      "title": "Uruguay",
       "manager": "Diego Alonso",
       "qualifying": "8-4-6",
       "region": "CONEMBOL",
@@ -343,7 +374,8 @@
     },
     {
       "group": "H,4",
-      "slug": "Korea Republic",
+      "slug": "korea-republic",
+      "title": "Korea Republic",
       "manager": "Paulo Bento",
       "qualifying": "7-2-1",
       "region": "CAF",
