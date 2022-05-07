@@ -2,10 +2,14 @@
   background: url(../img/trophy.jpg) no-repeat center;
   background-size: cover;
   color: white;
-  padding-top: 12rem
+  padding-top: 12rem;
+  font-family: 'Source Code Pro', monospace;
 }
 
 #jumbo {
   margin-bottom: 30px;
   margin-top: 0px;
 }
+
+// style
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,900&display=swap');

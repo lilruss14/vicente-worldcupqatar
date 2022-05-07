@@ -1,0 +1,25 @@
+{% extends '_templates/base.njk' %}
+
+{% set relative_path = "../" %}
+
+{% block page_title %}Meet some of the most exciting players at this years World Cup{{ title }}{% endblock %}
+
+{% block page_description %}{{ title }} by {{ author }}{% endblock %}
+
+{% block content %}
+  <article class="container">
+    <div class="row">
+      <div class="text-align-center">
+        <h1>{{ player }}</h1>
+        <p>Team: {{ squad }}</p>
+        <p>Position: {{ position }}</p>
+        <p>Club: {{ club }}</p>
+        <p>Age: {{ age }}</p>
+        <p>Goals: {{ goals }}</p>
+        <p>Assissts: {{ assissts }}</p>
+        <p>Preferred Foot: {{ preferred_foot }}</p>
+        <p>Why they matter: {{ outlook }}</p>
+      </div>
+    </div>
+  </article>
+{% endblock %}

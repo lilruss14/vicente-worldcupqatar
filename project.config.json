@@ -9,6 +9,11 @@
       "fileId": "1zKY0AzoUbsH011mE94-5HRdPcxQRaX83GaXBFxzID1I",
       "type": "sheet",
       "name": "teams"
+    },
+    {
+      "fileId": "1MqE4tSc3UIn0kaAUMd50MOO40r84QtlaNdGoMQSYEMA",
+      "type": "sheet",
+      "name": "players"
     }
   ],
   "to_bake": [
@@ -18,6 +23,13 @@
       "array": "teams",
       "slug": "slug",
       "path": "teams"
+    },
+    {
+      "template": "bake-players",
+      "data": "players",
+      "array": "players",
+      "slug": "slug",
+      "path": "players"
     }
   ]
 }

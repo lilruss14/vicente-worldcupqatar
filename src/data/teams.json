@@ -1,8 +1,8 @@
 {
   "teams": [
     {
-      "group": "A,1",
       "slug": "qatar",
+      "group": "A,1",
       "title": "Qatar",
       "manager": "Félix Sánchez",
       "qualifying": "Automatic",
@@ -13,8 +13,8 @@
       "nickname": "The Maroon"
     },
     {
-      "group": "A,2",
       "slug": "ecuador",
+      "group": "A,2",
       "title": "Ecuador",
       "manager": "Gustavo Alfaro",
       "qualifying": "7-5-6",
@@ -25,8 +25,8 @@
       "nickname": "La Tri (The Tri)"
     },
     {
-      "group": "A,3",
       "slug": "senegal",
+      "group": "A,3",
       "title": "Senegal",
       "manager": "Aliou Cissé",
       "qualifying": "5-1-0",
@@ -37,8 +37,8 @@
       "nickname": "The Lions of Teranga"
     },
     {
-      "group": "A,4",
       "slug": "netherlands",
+      "group": "A,4",
       "title": "Netherlands",
       "manager": "Louis Van Gaal",
       "qualifying": "7-2-1",
@@ -49,8 +49,8 @@
       "nickname": "The Flying Dutchman"
     },
     {
-      "group": "B,1",
       "slug": "england",
+      "group": "B,1",
       "title": "England",
       "manager": "Gareth Southgate",
       "qualifying": "8-2-0",
@@ -61,8 +61,8 @@
       "nickname": "The Three Lions"
     },
     {
-      "group": "B,2",
       "slug": "iran",
+      "group": "B,2",
       "title": "Iran",
       "manager": "Dragon Skočić",
       "qualifying": "8-1-1",
@@ -73,8 +73,8 @@
       "nickname": "Team Melli"
     },
     {
-      "group": "B,3",
       "slug": "united-states",
+      "group": "B,3",
       "title": "United States",
       "manager": "Gregg Berhalter",
       "qualifying": "7-4-3",
@@ -85,20 +85,20 @@
       "nickname": "Stars and Stripes"
     },
     {
-      "group": "B,4",
       "slug": "euro-play-off",
+      "group": "B,4",
       "title": "Euro Play-off",
-      "manager": "",
-      "qualifying": "",
+      "manager": "TBD",
+      "qualifying": "TBD",
       "region": "UEFA",
-      "finish": "",
-      "titles": "",
-      "apperance": "",
-      "nickname": ""
+      "finish": "TBD",
+      "titles": "TBD",
+      "apperance": "TBD",
+      "nickname": "TBD"
     },
     {
-      "group": "C,1",
       "slug": "argentina",
+      "group": "C,1",
       "title": "Argentina",
       "manager": "Lionel Scaloni",
       "qualifying": "11-6-0",
@@ -109,8 +109,8 @@
       "nickname": "La Albiceleste"
     },
     {
-      "group": "C,2",
       "slug": "saudi-arabia",
+      "group": "C,2",
       "title": "Saudi Arabia",
       "manager": "Hervé Renard",
       "qualifying": "7-2-1",
@@ -121,9 +121,9 @@
       "nickname": "The Green Falcons"
     },
     {
-      "group": "C,3",
       "slug": "mexico",
-      "title": "Mexico",
+      "group": "C,3",
+      "title": "Mexico ",
       "manager": "Gerado Martino",
       "qualifying": "8-4-2",
       "region": "CONCACAF",
@@ -133,8 +133,8 @@
       "nickname": "El Tri (The Tricolor)"
     },
     {
-      "group": "C,4",
       "slug": "poland",
+      "group": "C,4",
       "title": "Poland",
       "manager": "Czesław Michniewicz",
       "qualifying": "6-2-2",
@@ -145,8 +145,8 @@
       "nickname": "The White and Reds"
     },
     {
-      "group": "D,1",
       "slug": "france",
+      "group": "D,1",
       "title": "France",
       "manager": "Didier Deschamps",
       "qualifying": "5-3-0",
@@ -157,32 +157,32 @@
       "nickname": "The Blues"
     },
     {
-      "group": "D,2",
       "slug": "ic-play-off-1",
+      "group": "D,2",
       "title": "IC Play-off 1",
-      "manager": "",
-      "qualifying": "",
-      "region": "",
-      "finish": "",
-      "titles": "",
-      "apperance": "",
-      "nickname": ""
+      "manager": "TBD",
+      "qualifying": "TBD",
+      "region": "TBD",
+      "finish": "TBD",
+      "titles": "TBD",
+      "apperance": "TBD",
+      "nickname": "TBD"
     },
     {
-      "group": "D,3",
       "slug": "denmark",
+      "group": "D,3",
       "title": "Denmark",
       "manager": "Kasper Hjulmand",
-      "record in qualifying": "9-0-1",
+      "qualifying": "9-0-1",
       "region": "UEFA",
-      "best finish": "Quarter-finals",
-      "past titles": "",
-      "number of apperance": "6",
+      "finish": "Quarter-finals",
+      "titles": "",
+      "apperance": "6",
       "nickname": "Danish Dynamite"
     },
     {
-      "group": "D,4",
       "slug": "tunisia",
+      "group": "D,4",
       "title": "Tunisia",
       "manager": "Jalel Kadri",
       "qualifying": "4-1-1",
@@ -193,8 +193,8 @@
       "nickname": "The Carthage Eagles"
     },
     {
-      "group": "E,1",
       "slug": "spain",
+      "group": "E,1",
       "title": "Spain",
       "manager": "Luis Enrique",
       "qualifying": "6-1-1",
@@ -205,20 +205,20 @@
       "nickname": "La Roja"
     },
     {
-      "group": "E,2",
       "slug": "ic-play-off-2",
+      "group": "E,2",
       "title": "IC Play-off 2",
-      "manager": "",
-      "qualifying": "",
-      "region": "",
-      "finish": "",
-      "titles": "",
-      "apperance": "",
-      "nickname": ""
+      "manager": "TBD",
+      "qualifying": "TBD",
+      "region": "TBD",
+      "finish": "TBD",
+      "titles": "TBD",
+      "apperance": "TBD",
+      "nickname": "TBD"
     },
     {
-      "group": "E,3",
       "slug": "germany",
+      "group": "E,3",
       "title": "Germany",
       "manager": "Hansi Flick",
       "qualifying": "9-0-1",
@@ -229,8 +229,8 @@
       "nickname": "Nationalelf (National Eleven)"
     },
     {
-      "group": "E,4",
       "slug": "japan",
+      "group": "E,4",
       "title": "Japan",
       "manager": "Hajime Moriyasu",
       "qualifying": "7-1-2",
@@ -241,8 +241,8 @@
       "nickname": "The Samari Blue"
     },
     {
-      "group": "F,1",
       "slug": "belgium",
+      "group": "F,1",
       "title": "Belgium",
       "manager": "Roberto Martínez",
       "qualifying": "6-2-0",
@@ -253,8 +253,8 @@
       "nickname": "The Red Devils"
     },
     {
-      "group": "F,2",
       "slug": "canada",
+      "group": "F,2",
       "title": "Canada",
       "manager": "John Herdman",
       "qualifying": "8-4-2",
@@ -265,8 +265,8 @@
       "nickname": "Maple Leafs"
     },
     {
-      "group": "F,3",
       "slug": "morocco",
+      "group": "F,3",
       "title": "Morocco",
       "manager": "Vahid Halilhodžić",
       "qualifying": "6-0-0",
@@ -277,8 +277,8 @@
       "nickname": "The Atlas Lions"
     },
     {
-      "group": "F,4",
       "slug": "croatia",
+      "group": "F,4",
       "title": "Croatia",
       "manager": "Zlatko Dalić",
       "qualifying": "7-2-1",
@@ -289,8 +289,8 @@
       "nickname": "Kockasti (The Checkered Ones)"
     },
     {
-      "group": "G,1",
       "slug": "brazil",
+      "group": "G,1",
       "title": "Brazil",
       "manager": "Tite",
       "qualifying": "14-3-0",
@@ -301,20 +301,20 @@
       "nickname": "Canarinho (Little Canary)"
     },
     {
-      "group": "G,2",
       "slug": "serbia",
+      "group": "G,2",
       "title": "Serbia",
       "manager": "Dragon Stojković",
       "qualifying": "6-2-0",
       "region": "UEFA",
       "finish": "Fourth place",
       "titles": "",
-      "apperance": "3",
+      "apperance": "2",
       "nickname": "The Eagles"
     },
     {
-      "group": "G,3",
       "slug": "switzerland",
+      "group": "G,3",
       "title": "Switzerland",
       "manager": "Murat Yakin",
       "qualifying": "5-3-0",
@@ -325,8 +325,8 @@
       "nickname": "Rossocrociati (Red Crosses)"
     },
     {
-      "group": "G,4",
       "slug": "cameroon",
+      "group": "G,4",
       "title": "Cameroon",
       "manager": "Rigobert Song",
       "qualifying": "5-0-1",
@@ -337,8 +337,8 @@
       "nickname": "Les Lions Indomptables (The Indomitable Lions) "
     },
     {
-      "group": "H,1",
       "slug": "portugal",
+      "group": "H,1",
       "title": "Portugal",
       "manager": "Fernando Santos",
       "qualifying": "5-2-1",
@@ -349,8 +349,8 @@
       "nickname": "Os Navegadores (The Navigators)"
     },
     {
-      "group": "H,2",
       "slug": "ghana",
+      "group": "H,2",
       "title": "Ghana",
       "manager": "Otto Addo",
       "qualifying": "4-1-1",
@@ -361,8 +361,8 @@
       "nickname": "The Black Stars"
     },
     {
-      "group": "H,3",
       "slug": "uruguay",
+      "group": "H,3",
       "title": "Uruguay",
       "manager": "Diego Alonso",
       "qualifying": "8-4-6",
@@ -373,8 +373,8 @@
       "nickname": "Le Celeste (The Sky Blue)"
     },
     {
-      "group": "H,4",
       "slug": "korea-republic",
+      "group": "H,4",
       "title": "Korea Republic",
       "manager": "Paulo Bento",
       "qualifying": "7-2-1",

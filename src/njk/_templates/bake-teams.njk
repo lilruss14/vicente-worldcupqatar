@@ -2,17 +2,17 @@
 
 {% set relative_path = "../" %}
 
-{% block page_title %}{{ title }}{% endblock %}
+{% block page_title %} Meet the teams participating at the World Cup {{ title }}{% endblock %}
 
 {% block page_description %}{{ title }} by {{ author }}{% endblock %}
 
 {% block content %}
   <article class="container">
     <div class="row">
-      <div class="col-sm-4">
+      <div class="col-sm-5">
         <img src="/img/{{ slug }}.jpg" alt="" class="img-fluid mb-4">
       </div>
-      <div class="col-sm-8">
+      <div class="col-md-7">
           <h1>{{ title }}</h1>
           <p>Position: {{ group }}</p>
           <p>Manager: {{ manager }}</p>

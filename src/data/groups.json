@@ -3,7 +3,7 @@
     {
       "group_name": "Group A",
       "slug": "group-a",
-      "info": "The schedule for matches in Group A",
+      "info": "The schedule for matches in Group A.",
       "date_1": "Monday, November 21, 2022",
       "match_1_1": "Qatar v Ecuador",
       "match_1_2": "Senegal v Netherlands",
@@ -17,7 +17,7 @@
     {
       "group_name": "Group B",
       "slug": "group-b",
-      "info": "The schedule for matches in Group B",
+      "info": "The schedule for matches in Group B.",
       "date_1": "Monday, November 21, 2022",
       "match_1_1": "England v Iran",
       "match_1_2": "United States v Euro Play-off",
@@ -31,7 +31,7 @@
     {
       "group_name": "Group C",
       "slug": "group-c",
-      "info": "The schedule for matches in Group C",
+      "info": "The schedule for matches in Group C.",
       "date_1": "Tuesday, November 22, 2022",
       "match_1_1": "Argentina v Saudi Arabia",
       "match_1_2": "Mexico v Poland",
@@ -45,12 +45,12 @@
     {
       "group_name": "Group D",
       "slug": "group-d",
-      "info": "The schedule for matches in Group D",
+      "info": "The schedule for matches in Group D.",
       "date_1": "Tuesday, November 22, 2022",
       "match_1_1": "Denmark v Tunisia",
       "match_1_2": "France v IC Play-off 1",
       "date_2": "Saturday, November 26, 2022",
-      "match_2_1": "France v Denmark",
+      "match_2_1": "France v Denmakr",
       "match_2_2": "Tunisia v IC Play-off 1",
       "date_3": "Wednesday, November 30, 2022",
       "match_3_1": "Tunisia v France",
@@ -59,7 +59,7 @@
     {
       "group_name": "Group E",
       "slug": "group-e",
-      "info": "The schedule for matches in Group E",
+      "info": "The schedule for matches in Group E.",
       "date_1": "Wednesday, November 23, 2022",
       "match_1_1": "Germany v Japan",
       "match_1_2": "Spain v IC Play-off 2",
@@ -73,7 +73,7 @@
     {
       "group_name": "Group F",
       "slug": "group-f",
-      "info": "The schedule for matches in Group F",
+      "info": "The schedule for matches in Group F.",
       "date_1": "Wednesday, November 23, 2022",
       "match_1_1": "Morocco v Croatia",
       "match_1_2": "Belgium v Canada",
@@ -87,7 +87,7 @@
     {
       "group_name": "Group G",
       "slug": "group-g",
-      "info": "The schedule for matches in Group G",
+      "info": "The schedule for matches in Group G.",
       "date_1": "Thursday, November 24, 2022",
       "match_1_1": "Brazil v Serbia",
       "match_1_2": "Switzerland v Cameroon",
@@ -101,7 +101,7 @@
     {
       "group_name": "Group H",
       "slug": "group-h",
-      "info": "The schedule for matches in Group H",
+      "info": "The schedule for matches in Group H.",
       "date_1": "Thursday, November 24, 2022",
       "match_1_1": "Portugal v Ghana",
       "match_1_2": "Uruguay v Korea Republic",
